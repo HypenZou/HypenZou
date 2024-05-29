@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**wubbalubbaaa/wubbalubbaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HypenZou/HypenZou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wubbalubbaaa)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HypenZou)](https://github.com/anuraghazra/github-readme-stats)
