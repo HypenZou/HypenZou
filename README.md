@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 ---
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-
 ### about me 👻
 - 🥳 focusing on distributed computing and storage
 - 😊 working on big data infra, kafka/rocketmq/flink
