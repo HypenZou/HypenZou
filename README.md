@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 🥳 focusing on distributed computing and storage
 - 😊 working on big data infra, kafka/rocketmq/flink
 - 😨 Currently working at Bytedance Beijing
-- 😎 Open Source enthusiast, rocksdb && kafka contributor
+- 😯 rocksdb && kafka contributor
